@@ -34,7 +34,7 @@ We are using a **microservice architecture**. We have a frontend using NextJS an
 
 ## Challenges we ran into 😓
 
-While building Dionysus, we encountered various challenges, including:
+While building Dinamia, we encountered various challenges, including:
 
 1. Integrating AI and machine learning into the platform effectively.
 2. Ensuring real-time updates and accuracy in codebase search and meeting transcriptions.
@@ -42,7 +42,7 @@ While building Dionysus, we encountered various challenges, including:
 
 ## Accomplishments that we're proud of 👏
 
-We're proud of what Dionyuis has become—a tool that simplifies the lives of developers and enhances collaboration. The accomplishments we're most proud of include:
+We're proud of what Dinamia has become—a tool that simplifies the lives of developers and enhances collaboration. The accomplishments we're most proud of include:
 
 1. Successfully automating code documentation generation.
 2. Developing context-aware codebase search capabilities.
